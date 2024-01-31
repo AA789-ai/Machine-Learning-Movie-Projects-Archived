@@ -7,3 +7,5 @@
 #### 1. In KNN, we are trying to predict the movies rating
 
 #### 2. In collaboratrive filtering, we are trying to recommend movies to a uses
+
+#### The dataset is provided by MovieLens
